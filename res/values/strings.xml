@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">checkboxtest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="chb01">starte Activity 01</string>
+    <string name="chb02">starte Activity 02 </string>
+    <string name="chb03">starte Activity 03</string>
+    <string name="splash">\u0022simple SplashScreen\u022</string>
+    <string name="act01">Activity 01</string>
+    <string name="act02">Activity 02</string>
+    <string name="act03">Activity 03</string>
+    <string name="btnFF">weiter</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item01"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView"
+        android:title="@string/act01"/>
+    <item android:id="@+id/item02" android:title="@string/act02" android:orderInCategory="110" android:showAsAction="collapseActionView"></item>
+    <item android:id="@+id/item03" android:title="@string/act03" android:orderInCategory="130" android:showAsAction="collapseActionView"></item>
+
+</menu>
